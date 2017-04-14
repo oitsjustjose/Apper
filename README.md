@@ -9,8 +9,9 @@ Very simple:
 3. In Terminal, type: <code>bash apper.sh [URL] [App Name]</code>
 <br>URL can be any site, just should have the http:// or https:// portion
 <br>App Name can be any name, but **must not contain any spaces**.
-4. Follow [this guide](https://support.apple.com/kb/PH13922?locale=en_US) for the icon.
-    
+4. Follow [this guide](https://www.youtube.com/watch?v=r0gTdRTwEn4) for the icon.
+
+# [TL;DR? Watch this](https://www.youtube.com/watch?v=cCkq8hB9R0U)
 
 # Compatibility
 For macOS only - haven't tested on anything older than macOS Sierra 10.12.4
