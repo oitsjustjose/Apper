@@ -9,6 +9,7 @@ Very simple:
 3. In Terminal, type: <code>bash apper.sh [URL] [App Name]</code>
 <br>URL can be any site, just should have the http:// or https:// portion
 <br>App Name can be any name, but **must not contain any spaces**.
+4. Follow [this guide](https://support.apple.com/kb/PH13922?locale=en_US) for the icon.
     
 
 # Compatibility
