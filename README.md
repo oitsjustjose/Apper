@@ -21,4 +21,5 @@ Very simple:
 
 # Compatibility
 For macOS only - haven't tested on anything older than macOS Sierra 10.12.4
+
 App should work regardless, as it's a CLI program using basic UNIX commands
