@@ -2,7 +2,9 @@
 A tool for making Weblink Shortcuts into macOS Applications
 
 Normally, you can save a web shortcut to your desktop in macOS no problem!
+
 Unfortunately, macOS saves this as a .webloc file, so you can't put it next to your favorite apps in the Dock.
+
 Apper creates a .app file for you JUST FOR THAT!
 
 # Usage
